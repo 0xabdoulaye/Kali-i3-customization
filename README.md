@@ -20,5 +20,6 @@ Now just find some Background wallpaper and set them using the command :
 feh --bg-scale background.jpg
 ```
 
-
+If You want to see all your applications like Firefox and others use :
+`Win+d`
 
