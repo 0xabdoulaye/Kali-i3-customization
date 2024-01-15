@@ -2,7 +2,7 @@
 This is my Kali Linux i3-gaps customization dotfiles.
 This installer can help you to install it in you Linux Systems
 
-![Kali i3-gaps](./b.png){:class="img-responsive"}
+![Kali i3-gaps](./b.png)
 
 
 ## SETUP
